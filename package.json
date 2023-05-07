@@ -25,7 +25,7 @@
   "author": "Mig Tam Rod",
   "license": "Apache-2.0",
   "peerDependencies": {
-    "@capacitor/core": "latest"
+    "@capacitor/core": "^4.0.0"
   },
   "prettier": "@ionic/prettier-config",
   "swiftlint": "@ionic/swiftlint-config",
